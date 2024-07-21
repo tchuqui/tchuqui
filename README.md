@@ -2,7 +2,7 @@
 
 Atualmente atuo como DBA e explorando o mundo de Engenharia de Dados.
 
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/thadeuchuqui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/thadeuchuqui/])
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/thadeuchuqui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/thadeuchuqui/)
 
 ## Ferramentas (Banco de Dados)
 
