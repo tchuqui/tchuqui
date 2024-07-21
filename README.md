@@ -7,18 +7,18 @@ Atualmente atuo como DBA e explorando o mundo de Engenharia de Dados.
 
 ## Ferramentas (Banco de Dados)
 
-![SQLServer](https://img.shields.io/badge/SQLServer-0078d4?style=flat&logo=microsoft&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-ffcc10?style=flat&logo=totvs&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQLServer-0078d4?style=flat&logo=sqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-DC143C?style=flat&logo=oracle&logoColor=red)
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=Postgresql&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-0199be?style=flat&logo=totvs&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-0199be?style=flat&logo=DB2&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-ba7257?style=flat&logo=MariaDB&logoColor=white)
 
 ## Ferramentas (Engenharia de Dados)
 
-![Apache Nifi](https://img.shields.io/badge/Apache_Nifi-379ad6?style=flat&logo=csswizardry&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-ce6b9c?style=flat&logo=sass&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-e97104?style=plastic&logo=OpenJDK&logoColor=white)
+![Apache Nifi](https://img.shields.io/badge/Apache_Nifi-379ad6?style=flat&logo=apachenifi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-ce6b9c?style=flat&logo=apachekafka&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-e97104?style=plastic&logo=ssis&logoColor=white)
 
 ## Ferramentas (DevOps)
 
